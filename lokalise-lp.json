@@ -1,0 +1,99 @@
+{
+    "product": {
+      "features": {
+        "ai_translation": "AI Translation",
+        "ai_quality_assurance": "AI quality assurance",
+        "collaborative_translation": "Collaborative translation",
+        "localization_workflow_management": "Localization workflow management",
+        "localization_process_automation": "Localization process automation",
+        "translation_quality_assurance": "Translation quality assurance",
+        "in_context_editing": "In-context editing",
+        "translation_services": "Translation services",
+        "real_time_support_translation": "Real-time support translation",
+        "lokalise_apps": "Lokalise apps",
+        "security": "Security"
+      },
+      "solutions": {
+        "for_developers": "For developers",
+        "for_product_managers": "For product managers",
+        "for_localization_managers": "For localization managers",
+        "for_translators": "For translators",
+        "for_designers": "For designers",
+        "for_marketers": "For marketers",
+        "for_customer_service": "For customer service",
+        "for_enterprise": "For enterprise"
+      },
+      "developers": {
+        "resources": {
+          "developer_hub": "Developer Hub",
+          "api_reference": "API reference",
+          "cli_tool": "CLI tool",
+          "flutter_sdk": "Flutter SDK",
+          "ios_sdk": "iOS SDK",
+          "android_sdk": "Android SDK",
+          "file_formats": "File-formats",
+          "tutorials": "Tutorials",
+          "developer_tools": "Developer tools"
+        }
+      },
+      "resources": {
+        "materials": {
+          "blog": "Blog",
+          "case_studies": "Case studies",
+          "library": "Library",
+          "academy": "Academy",
+          "product_updates": "Product updates"
+        },
+        "partners": {
+          "documentation": "Documentation",
+          "pricing": "Pricing",
+          "become_a_partner": "Become a partner",
+          "find_a_partner": "Find a partner"
+        }
+      },
+      "careers": "Careers 🚀",
+      "login": "Log inTry it freeProduct tour",
+      "description": "What is Lokalise",
+      "testimonial": {
+        "quote": "“It probably takes longer for Apple to review the app than for us to roll out a new language with Lokalise.”",
+        "author": "Edward Cooper, Chief Mobile Officer"
+      },
+      "ai_translation_feature": "Translate smarter with AI magicNEW",
+      "localization_control": "Control the localization process",
+      "market_time_reduction": "Shorten time to market",
+      "quality_assurance": "Ensure quality",
+      "developer_workload": "Less work for developers",
+      "localization_options": {
+        "web_apps": "Web apps",
+        "customer_service": "Customer service",
+        "documents": "Documents",
+        "mobile_apps": "Mobile apps",
+        "games": "Games",
+        "marketing_assets": "Marketing assets"
+      },
+      "productivity_boost": {
+        "managers": "Boost your localization team’s productivity tenfold",
+        "developers": "Developers",
+        "translators": "Translators",
+        "designers": "Designers"
+      },
+      "api_example": "const lokalise = new LokaliseApi({apiKey: token}); lokalise.files.download( project_id, { format: \"json\", original_filenames: true });"
+    },
+    "company_info": {
+      "about": {
+        "localization_story": "Behind the scenes of localization with one of Europe's leading digital health providers",
+        "ai_beta_terms": "AI beta terms"
+      },
+      "legal": {
+        "terms_of_service": "Terms of service",
+        "privacy_policy": "Privacy policy",
+        "cookie_policy": "Cookie policy",
+        "cookies_settings": "Cookies settings",
+        "dpa": "DPA",
+        "list_of_sub_processors": "List of sub-processors",
+        "candidates_privacy_notice": "Candidates privacy notice",
+        "imprint": "Imprint",
+        "dev_hub_terms": "Dev Hub Terms"
+      }
+    }
+  }  
